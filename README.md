@@ -19,3 +19,24 @@
 <p align="center">Controler Finance</p>
 <p align="center">Comunicativa 👥 ∙ Proativa 🛸 ∙ Visão sitemica 🎯</p>
 <p align="center">Aprendendo o mundo da programação e dados. Go Itaú </p>
+<p align="center">
+<img alt="Javascript Icon" src="images/javascript.svg" width="35px"/> &nbsp;
+<img alt="Java Icon" src="images/java.svg" width="35px" /> &nbsp;
+<img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
+<img alt="Postgresql Icon" src="images/postgresql.svg" width="35px" /> &nbsp;
+<img alt="AWS Icon" src="images/aws.png" width="35px" /> &nbsp;
+<img alt="Git Icon" src="images/git.svg" width="35px" /> &nbsp;
+</p>
+
+<br>
+
+<table align="center" width="100%">
+<row>
+    <td>
+        <img height="172" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Suzyguebata&layout=compact&theme=react&langs_count=8'>
+    </td>
+    <td>
+        <img height="172" src='https://github-readme-stats.vercel.app/api?username=Suzyguebata&show_icons=true&theme=react'>
+    </td>
+</row>
+</table>
