@@ -12,3 +12,10 @@
 <a href="mailto:suzanaguebata@gmail.com">
     <img src="http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:suzanaguebata@gmail.com" alt="Gmail Badge" />
 </a>
+</a>
+</p>
+<p align="center">Backend 💻</p>
+<p align="center">Analytcs 📊</p>
+<p align="center">Controler Finance</p>
+<p align="center">Comunicativa 👥 ∙ Proativa 🛸 ∙ Visão sitemica 🎯</p>
+<p align="center">Aprendendo o mundo da programação e dados. Go Itaú </p>
