@@ -23,6 +23,8 @@
 <p align="center">Estou me integrando ao mundo da programação e dados. Go Itaú </p>
 <h3 align="center">
 <img src="https://fontmeme.com/permalink/210820/29d1ef6825a8ff170b368826d976d7e4.png" alt="fonts" border="0">
+<p>
+</p>
 </h3>
 <p align="center">
 <img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
