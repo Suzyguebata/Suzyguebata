@@ -41,7 +41,5 @@
     </td>
 </row>
 </table>
-<img src="https://github.com/Suzyguebata/Suzyguebata/blob/output/github-contribution-grid-snake.svg" 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
 alt="Animação cobrinha"/>
-    
- 
