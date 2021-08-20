@@ -34,10 +34,10 @@
 <table align="center" width="100%">
 <row>
     <td>
-        <img height="172" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Suzyguebata&layout=compact&theme=react&langs_count=8'>
+        <img height="172" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Suzyguebata&layout=compact&hide=shell&theme=kacho_ga'>
     </td>
     <td>
-        <img height="172" src='https://github-readme-stats.vercel.app/api?username=Suzyguebata&show_icons=true&theme=react'>
+        <img height="172" src='https://github-readme-stats.vercel.app/api?username=Suzyguebata&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true'>
     </td>
 </row>
 </table>
