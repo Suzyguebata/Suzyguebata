@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=sSuzyguebata&color=red&style=flat-squares&label=Views"></img>
+<img align="right" src="/github/watchers/:Suzyguebata/:repo?label=Watch"></img>
 
 <img align="left" src="https://media.giphy.com/media/kFA6aTkhO7Gxi/giphy.gif?cid=ecf05e47j1q50w82ifgbqbohnbxe8fyqoyb4qwl2nygtwmay&rid=giphy.gif&ct=g" width="40%" alt="Super Mário"/>
 <h3 align="center">
@@ -14,11 +14,11 @@
 </a>
 </a>
 </p>
-<p align="center">Backend 💻</p>
-<p align="center">Analytcs 📊</p>
+<p align="center">Estudante de backend 💻</p>
+<p align="center">Analytcs e BigData 📊</p>
 <p align="center">Controler Finance</p>
 <p align="center">Comunicativa 👥 ∙ Proativa 🛸 ∙ Visão sitemica 🎯</p>
-<p align="center">Aprendendo o mundo da programação e dados. Go Itaú </p>
+<p align="center">Estou me integrando ao mundo da programação e dados. Go Itaú </p>
 <p align="center">
 <img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
 <img alt="HTML Icon" src="images/html.png" width="35px" /> &nbsp;
