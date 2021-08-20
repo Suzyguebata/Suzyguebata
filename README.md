@@ -1,4 +1,4 @@
-<img align="right" src="https://shields.io/category/social/github/watchers/:Suzyguebata/:repo?label=Watch"></img>
+<img align="right" src="https://komarev.com/ghpvc/?username=sSuzyguebata&color=red&style=flat-squares&label=Views"></img>
 
 <img align="left" src="https://media.giphy.com/media/kFA6aTkhO7Gxi/giphy.gif?cid=ecf05e47j1q50w82ifgbqbohnbxe8fyqoyb4qwl2nygtwmay&rid=giphy.gif&ct=g" width="40%" alt="Super Mário"/>
 <h3 align="center">
@@ -12,6 +12,9 @@
 <a href="mailto:suzanaguebata@gmail.com">
     <img src="http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:suzanaguebata@gmail.com" alt="Gmail Badge" />
 </a>
+<a href="https://www.instagram.com/suzyguebata/">>
+    <img src="https://img.shields.io/endpoint?url=https://www.instagram.com/suzyguebata/&stylesocial" 
+    alt="Instagram Badge" />
 </a>
 </p>
 <p align="center">Estudante de backend 💻</p>
