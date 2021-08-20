@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suzyguebata/&stylesocial" 
     alt="Instagram Badge" />
 </a>
-</p>
+<h3 align="center">
+<img src="https://fontmeme.com/permalink/210820/992c705e54dd13f9b8dfac5b7dd89119.png" alt="fonts" border="0">
+</h3>
 <p align="center">Estudante de backend 💻</p>
 <p align="center">Analytcs e BigData 📊</p>
 <p align="center">Controler Finance</p>
