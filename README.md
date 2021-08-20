@@ -13,7 +13,7 @@
     <img src="http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:suzanaguebata@gmail.com" alt="Gmail Badge" />
 </a>
 <a href="https://www.instagram.com/suzyguebata/">>
-    <img src="https://img.shields.io/endpoint?url=https://www.instagram.com/suzyguebata/&stylesocial" 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suzyguebata/&stylesocial" 
     alt="Instagram Badge" />
 </a>
 </p>
