@@ -20,6 +20,8 @@
 <p align="center">Comunicativa 👥 ∙ Proativa 🛸 ∙ Visão sitemica 🎯</p>
 <p align="center">Aprendendo o mundo da programação e dados. Go Itaú </p>
 <p align="center">
+<img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
+<img alt="HTML Icon" src="images/html.png" width="35px" /> &nbsp;
 <img alt="Java Icon" src="images/java.svg" width="35px" /> &nbsp;
 <img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
 <img alt="Postgresql Icon" src="images/postgresql.svg" width="35px" /> &nbsp;
