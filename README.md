@@ -21,10 +21,13 @@
 <p align="center">Controler Finance</p>
 <p align="center">Comunicativa 🗣 ° Proativa 🧩 ° Visão sitemica ⚙</p>
 <p align="center">Estou me integrando ao mundo da programação e dados. Go Itaú </p>
+
+<br>
+
 <h3 align="center">
 <img src="https://fontmeme.com/permalink/210820/29d1ef6825a8ff170b368826d976d7e4.png" alt="fonts" border="0">
 </h3>
-<p align="right">
+<p align="center">
 <img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
 <img alt="HTML Icon" src="images/html.png" width="35px" /> &nbsp;
 <img alt="Java Icon" src="images/java.svg" width="35px" /> &nbsp;
