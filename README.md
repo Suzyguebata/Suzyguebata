@@ -31,6 +31,7 @@
 <img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
 <img alt="HTML Icon" src="images/html.png" width="35px" /> &nbsp;
 <img alt="Java Icon" src="images/java.svg" width="35px" /> &nbsp;
+<img alt="Spring Boot Icon" src="images/springboot.png" width="35px" /> &nbsp;
 <img alt="C# Icon" src="images/c-sharp.svg" width="35px" /> &nbsp;
 <img alt="MySQL Icon" src="images/mysql.svg" width="35px" /> &nbsp;
 <img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
