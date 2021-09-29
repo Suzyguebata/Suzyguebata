@@ -52,3 +52,5 @@
     </td>
 </row>
 </table>
+
+![Snake animation](https://github.com/VanessaGomesdeOliveira/Suzyguebata/blob/output/github-contribution-grid-snake.svg)
