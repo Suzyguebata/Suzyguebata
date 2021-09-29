@@ -51,7 +51,10 @@
         <img height="172" src='https://github-readme-stats.vercel.app/api?username=Suzyguebata&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true'>
     </td>
 </row>
-</table>
-<div>
+
 ![Snake animation](https://github.com/Suzyguebata/Suzyguebata/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+
+</table>
+
+
