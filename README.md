@@ -17,7 +17,7 @@
     alt="Instagram Badge" />
 </a>
 <p align="center">Estudante de backend 💻</p>
-<p align="center">Analytcs e BigData 📊</p>
+<p align="center">Aprendiz Analytcs e BigData 📊</p>
 <p align="center">Controler Finance</p>
 <p align="center">Comunicativa 🗣 ° Proativa 🧩 ° Visão sitemica ⚙</p>
 <p align="center">Estou me integrando ao mundo da programação e dados. Go Itaú </p>
