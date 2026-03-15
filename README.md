@@ -2,7 +2,7 @@
 
 <img align="left" src="https://media.giphy.com/media/kFA6aTkhO7Gxi/giphy.gif?cid=ecf05e47j1q50w82ifgbqbohnbxe8fyqoyb4qwl2nygtwmay&rid=giphy.gif&ct=g" width="40%" alt="Super Mário"/>
 <h3 align="center">
-<img src="https://fontmeme.com/permalink/210820/3de7d456684a8a7d9e3cdab259351846.png" alt="fonts" border="0">
+<img src="images/nome.png" alt="fonts" border="0">
 </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/suzana-aalves/">
@@ -25,9 +25,10 @@
 <br>
 
 <h3 align="center">
-<img src="https://fontmeme.com/permalink/210820/29d1ef6825a8ff170b368826d976d7e4.png" alt="fonts" border="0">
+<img  alt="fonts" src="images/dominio.png" width="300px">
 </h3>
 <p align="center">
+<img alt="Git Icon" src="images/git.svg" width="35px" /> &nbsp;
 <img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
 <img alt="Spark Icon" src="images/spark.png" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/aws.png" width="35px" /> &nbsp;
@@ -35,7 +36,6 @@
 <img alt="AWS Icon" src="images/glue.png" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/s3.png" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/kinesis.png" width="35px" /> &nbsp;
-<img alt="Git Icon" src="images/git.svg" width="35px" /> &nbsp;
 </p>
 
 <br>
