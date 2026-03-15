@@ -28,14 +28,8 @@
 <img src="https://fontmeme.com/permalink/210820/29d1ef6825a8ff170b368826d976d7e4.png" alt="fonts" border="0">
 </h3>
 <p align="center">
-<img alt="CSS Icon" src="images/css.png" width="35px" /> &nbsp;
-<img alt="HTML Icon" src="images/html.png" width="35px" /> &nbsp;
-<img alt="Java Icon" src="images/java.svg" width="35px" /> &nbsp;
-<img alt="Spring Boot Icon" src="images/spingboot.png" width="70px" /> &nbsp;
-<img alt="C# Icon" src="images/c-sharp.svg" width="35px" /> &nbsp;
-<img alt="MySQL Icon" src="images/mysql.svg" width="35px" /> &nbsp;
 <img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
-<img alt="Postgresql Icon" src="images/postgresql.svg" width="35px" /> &nbsp;
+<img alt="Spark Icon" src="![alt text](image.png)" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/aws.png" width="35px" /> &nbsp;
 <img alt="Git Icon" src="images/git.svg" width="35px" /> &nbsp;
 </p>
