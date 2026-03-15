@@ -5,7 +5,7 @@
 <img src="https://fontmeme.com/permalink/210820/3de7d456684a8a7d9e3cdab259351846.png" alt="fonts" border="0">
 </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/suzana-alves-pcd-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-6b7a9b3b/">
+<a href="[https://www.linkedin.com/in/suzana-alves-pcd-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-6b7a9b3b/](https://www.linkedin.com/in/suzana-aalves/)">
     <img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suzana-alves-pcd-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-6b7a9b3b/" 
     alt="LinkedIn Badge" />
 </a>
@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suzyguebata/&stylesocial" 
     alt="Instagram Badge" />
 </a>
-<p align="center">Estudante de backend 💻</p>
-<p align="center">Aprendiz Analytcs e BigData 📊</p>
-<p align="center">Controler Finance</p>
+<p align="center">Engenheira de Dados 💻</p>
+<p align="center">Clowd AWS</p>
+<p align="center">Python & Spark</p>
 <p align="center">Comunicativa 🗣 ° Proativa 🧩 ° Visão sitemica ⚙</p>
-<p align="center">Estou me integrando ao mundo da programação e dados. Go Itaú </p>
+<p align="center">Faço parte do time de tecnologia e dados. Go Itaú </p>
 
 <br>
 
