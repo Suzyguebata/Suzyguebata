@@ -29,8 +29,12 @@
 </h3>
 <p align="center">
 <img alt="Python Icon" src="images/python.svg" width="35px" /> &nbsp;
-<img alt="Spark Icon" src="![alt text](image.png)" width="35px" /> &nbsp;
+<img alt="Spark Icon" src="images/spark.png" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/aws.png" width="35px" /> &nbsp;
+<img alt="AWS Icon" src="images/lambda.png" width="35px" /> &nbsp;
+<img alt="AWS Icon" src="images/glue.png" width="35px" /> &nbsp;
+<img alt="AWS Icon" src="images/s3.png" width="35px" /> &nbsp;
+<img alt="AWS Icon" src="images/kinesis.png" width="35px" /> &nbsp;
 <img alt="Git Icon" src="images/git.svg" width="35px" /> &nbsp;
 </p>
 
