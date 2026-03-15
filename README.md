@@ -1,6 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=sSuzyguebata&color=red&style=flat-squares&label=Views"></img>
 
-<img align="left" src="https://media.giphy.com/media/kFA6aTkhO7Gxi/giphy.gif?cid=ecf05e47j1q50w82ifgbqbohnbxe8fyqoyb4qwl2nygtwmay&rid=giphy.gif&ct=g" width="40%" alt="Super Mário"/>
 <h3 align="center">
 <img src="images/nome.png" alt="fonts" border="0">
 </h3>
@@ -21,7 +20,6 @@
 <p align="center">Python & Spark</p>
 <p align="center">Comunicativa 🗣 ° Proativa 🧩 ° Visão sitemica ⚙</p>
 <p align="center">Faço parte do time de tecnologia e dados. Go Itaú </p>
-
 <br>
 
 <h3 align="center">
@@ -37,7 +35,6 @@
 <img alt="AWS Icon" src="images/s3.png" width="35px" /> &nbsp;
 <img alt="AWS Icon" src="images/kinesis.png" width="35px" /> &nbsp;
 </p>
-
 <br>
 
 <table align="center" width="100%">
@@ -51,8 +48,6 @@
 </row>
 
 ![Snake animation](https://github.com/Suzyguebata/Suzyguebata/blob/output/github-contribution-grid-snake.svg)
-
-
 </table>
 
 
