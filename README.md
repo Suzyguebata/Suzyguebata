@@ -5,8 +5,8 @@
 <img src="https://fontmeme.com/permalink/210820/3de7d456684a8a7d9e3cdab259351846.png" alt="fonts" border="0">
 </h3>
 <p align="center">
-<a href="[https://www.linkedin.com/in/suzana-alves-pcd-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-6b7a9b3b/](https://www.linkedin.com/in/suzana-aalves/)">
-    <img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suzana-alves-pcd-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-6b7a9b3b/" 
+<a href="https://www.linkedin.com/in/suzana-aalves/">
+    <img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suzana-aalves/" 
     alt="LinkedIn Badge" />
 </a>
 <a href="mailto:suzanaguebata@gmail.com">
