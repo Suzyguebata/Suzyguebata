@@ -1,0 +1,21 @@
+name: CI Feature Branch
+
+on:
+  push:
+    branches:
+      - 'develop'
+
+  pull_request:
+    branches:
+      - 'develop'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Exemplo de execução
+        run: echo "Rodando workflow para branch develop"
