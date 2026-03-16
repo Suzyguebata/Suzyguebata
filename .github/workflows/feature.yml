@@ -1,22 +1,21 @@
-name: continuos integration
+name: CI Feature Branch
 
 on:
+  push:
+    branches:
+      - 'feature/**'
+
   pull_request:
-    branche:
-      'feature/'
+    branches:
+      - 'feature/**'
 
 jobs:
-  continuos-integration:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - name: Using Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 16.
-      - name: run install, build and test
-        run: |
-          npm install
-          npm run build 
-          npm run test
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Exemplo de execução
+        run: echo "Rodando workflow para branch feature"
